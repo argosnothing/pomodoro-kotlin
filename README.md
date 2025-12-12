@@ -1,3 +1,6 @@
+### Reupload of an old personal project   
+only tested and used on windows. 
+
 # Pomodoro
 Simple pomodoro timer to aid in productivity.
 
